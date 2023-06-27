@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grungy Brick Wall
+* source:	https://sketchfab.com/3d-models/grungy-brick-wall-9534ee78eb3746fa893d8a80cee9c1bb
+* author:	James Candy (https://sketchfab.com/jamescandy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grungy Brick Wall" (https://sketchfab.com/3d-models/grungy-brick-wall-9534ee78eb3746fa893d8a80cee9c1bb) by James Candy (https://sketchfab.com/jamescandy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
